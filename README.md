@@ -1,4 +1,5 @@
-![logo](https://github.com/abhinakumar/abhinakumar/blob/main/photo-1605379399843-5870eea9b74e.jpeg)
+
+![logo hight="400px"](https://github.com/abhinakumar/abhinakumar/blob/main/photo-1605379399843-5870eea9b74e.jpeg)
 <h1 align="center">Hi 👋, I'm Abhinav Kumar</h1>
 <h3 align="center">A passionate Software engineer from India</h3>
  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="abhinakumar" width="400" align="right" /> 
@@ -23,27 +24,106 @@
   <a href="https://twitter.com/abhinavkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhinavkumar" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+
+ <h2 style="color: #44AEFB">👨‍💻 Languages and Tools:</h2>
+<div align="center" style="display:block;">
+    <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
+</div>
+<div align="center">
+
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+      <img  alt="C" height="50px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="50px" style="padding-right:25px;"/> </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+      <img  alt="JavaScript" height="50px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+  </a>
   
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+      <img  alt="ReactJS" height="50px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  </a>
+ 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+      <img  alt="HTML" height="50px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+      <img  alt="CSS" height="50px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+      <img  alt="Bootstrap" height="50px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+  </a>
+   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="50px" style="padding-right:25px;"/> </a>
+    
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+      <img  alt="Python" height="50px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  </a>
+   <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="50px" style="padding-right:25px;"/> </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinakumar&show_icons=true&locale=en&layout=compact" alt="abhinakumar" /></p>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" height="50px" style="padding-right:25px;"/> </a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinakumar&show_icons=true&locale=en" alt="abhinakumar" /></p>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" height="50px" style="padding-right:25px;"/> </a>
+ 
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" height="50px" style="padding-right:25px;"/> </a>
+ 
+   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" height="50px" style="padding-right:25px;"/> </a>
+  
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+      <img  alt="firebase" height="50px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
+  </a>
+ 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <img  alt="Git" height="50px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  </a>
+ 
+  
+  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+      <img  alt="NPM" height="50px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+      <img  alt="vscode" height="50px" style="padding-right:25px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  </a>
+  <a href="http://jupyter.org/" target="_blank" rel="noreferrer">
+      <img  alt="Jupyter" height="50px" style="padding-right:25px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+      <img  alt="Figma" height="50px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
+  </a>
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+      <img  alt="Canva" height="50px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
+  </a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinakumar&" alt="abhinakumar" /></p>
+
+  </div>
+  <br>
+  <br>
+  <h2 style="color: #44AEFB">📊 Statistics</h2>
+
+![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
+
+
+<div class="stats" align="center" >
+
+![GitHub Streak](https://streak-stats.demolab.com?user=abhinakumar&count_private=true&theme=algolia&border_radius=20)</div>
+
+<!--![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abbhinakumar&show_icons=true&theme=algolia&border_radius=20) -->
+
+<!--
+ ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinakumar&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+</div> -->
+
+
+<div class="stats" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhinakumar&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinakumar&layout=compact&show_icons=true&theme=algolia&border_radius=20">
+</div>
+
+
