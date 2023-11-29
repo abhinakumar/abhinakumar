@@ -1,5 +1,5 @@
 
-![logo](https://github.com/abhinakumar/abhinakumar/blob/main/photo-1605379399843-5870eea9b74e.jpeg){height=400px}
+![logo](https://github.com/abhinakumar/abhinakumar/blob/main/photo-1605379399843-5870eea9b74e.jpeg)
 
 <h1 align="center">Hi 👋, I'm Abhinav Kumar</h1>
 <h3 align="center">A passionate Software engineer from India</h3>
