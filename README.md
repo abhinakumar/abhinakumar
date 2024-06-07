@@ -41,6 +41,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img  alt="JavaScript" height="50px" style="padding-right:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
   </a>
+   <a href="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" target="_blank" rel="noreferrer">
+      <img  alt="HTML" height="50px" style="padding-right:25px;" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png"/>
+  </a>
   <a href="https://www.yessinfotech.com/wp-content/uploads/2019/11/spring-boot-logo.png" target="_blank" rel="noreferrer">
       <img  alt="HTML" height="50px" style="padding-right:25px;" src="https://www.yessinfotech.com/wp-content/uploads/2019/11/spring-boot-logo.png"/>
   </a>
