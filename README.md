@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinakumar&label=Profile%20views&color=0e75b6&style=flat" alt="abhinakumar" /> </p>
 
-- 🔭 I’m currently working on **Problem Solving (Using C++) and Web development.🙌**
+- 🔭 I’m currently working on **Problem Solving (Using C++)  Web development and java.🙌**
 
-- 🌱 I’m currently learning **DSA,ML and front-end 👨 💻**
+- 🌱 I’m currently learning **DSA,ML and java devloper 👨 💻**
 
-- 💬 Ask me about **C++ ,Python and Web Technologies (React Redux)👨‍💻**
+- 💬 Ask me about **C++,java ,Python and Web Technologies (React Redux)👨‍💻**
 
 - 📫 How to reach me **abhinavkumar0157@gmail.com**
 
